@@ -5,6 +5,8 @@ Este trabajo de la asignatura Desarrollo de Interfaces de Usuario se basa en un 
 A continuación se irán destacando los puntos que se han estudiado en este informe.
 ## 1.User Research
 El user research consiste en una investigación sobre los posibles usuarios de un servicio y que problemas pueden tener.
+[Texto compartido](https://docs.google.com/document/d/1wWdetVlaMqgVUsVILR-J2apbsW07X_3qX3nmkj12pRU/edit?usp=sharing)
+
 ## 2.Competitive analysis
 Este análisis se basa en una comparación de calidad de las distintas páginas elegidas, en este caso:
   - Pilsa Educa https://pilsaeduca.com/
