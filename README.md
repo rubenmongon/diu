@@ -15,7 +15,7 @@ Llegados a este punto hemos creado dos personas ficticias para usarlas como suje
 Carla es una choni que nunca ha querido estudiar y siempre le ha gustado más el mundo nocturno y la vida social. Hemos creado a esta persona para tener un enfoque más alocado y de una persona que no ha realizado nunca este tipo de actividades.
 ### Segunda persona, Daniel Ochoa
 ---
-## Experiencia Journey Map
+## Experience Journey Map
 Después de presentar a nuestras personas vamos a crear una hoja de ruta sobre la experiencia que han tenido con nuestra página web elegida, Granada Cooking.
 ### Journey Map de Carla Perez
 ### Journey Map de Daniel Ochoa
