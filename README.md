@@ -15,7 +15,7 @@ Este análisis se basa en una comparación de calidad de las distintas páginas 
 Llegados a este punto hemos creado dos personas ficticias para usarlas como sujetos que van a participar en el turismo gatronómico.
 #### [Primera persona, Carla Perez](documentos/persona_carla.pdf)
 Carla es una choni que nunca ha querido estudiar y siempre le ha gustado más el mundo nocturno y la vida social. Hemos creado a esta persona para tener un enfoque más alocado y de una persona que no ha realizado nunca este tipo de actividades.
-#### Segunda persona, Daniel Ochoa
+#### [Segunda persona, Daniel Ochoa](documentos/persona_daniel.pdf)
 blaaskdbasd
 ## Experience Journey Map
 Después de presentar a nuestras personas vamos a crear una hoja de ruta sobre la experiencia que han tenido con nuestra página web elegida, Granada Cooking.
