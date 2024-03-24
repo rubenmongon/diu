@@ -23,12 +23,12 @@ Llegados a este punto hemos creado dos personas ficticias para usarlas como suje
 Carla es una choni que nunca ha querido estudiar y siempre le ha gustado más el mundo nocturno y la vida social. Hemos creado a esta persona para tener un enfoque más alocado y de una persona que no ha realizado nunca este tipo de actividades.
 #### [Segunda persona, Daniel Ochoa](documentos/persona_daniel.pdf)
 blaaskdbasd
-## Experience Journey Map
+## 4.Experience Journey Map
 Después de presentar a nuestras personas vamos a crear una hoja de ruta sobre la experiencia que han tenido con nuestra página web elegida, Granada Cooking.
 #### [Journey Map de Carla Perez](documentos/journey_map_carla.pdf)
 #### [Journey Map de Daniel Ochoa](documentos/journey_map_daniel.pdf)
 
-## [Usability Review](documentos/Usability-review.pdf)
+## 5.[Usability Review](documentos/Usability-review.pdf)
 ## Conclusión de la práctica
 En este proyecto hemos realizado un estudio extenso sobre el turismo gastronómico y en particular sobre las páginas web de las empresas que ofrecen estos servicios.
 Cabe destacar que todo lo hemos realizado con unas plantillas que se nos ofrecieron para poder mostrar toda la información en múltiples aspectos.  
