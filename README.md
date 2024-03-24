@@ -32,7 +32,5 @@ Después de presentar a nuestras personas vamos a crear una hoja de ruta sobre l
 ## Conclusión de la práctica
 En este proyecto hemos realizado un estudio extenso sobre el turismo gastronómico y en particular sobre las páginas web de las empresas que ofrecen estos servicios.
 Cabe destacar que todo lo hemos realizado con unas plantillas que se nos ofrecieron para poder mostrar toda la información en múltiples aspectos.
-
 Cada persona es distinta y al crear dos ficticias y usarlas como usuarios de la Página Web nos ha ayudado a poder ponernos en un punto de vista externo y diferente al nuestro para poder hacernos una idea de las distintas fallas y problemas que podrían encontrar.
-
 En definitiva, podríamos afirmar que esta práctica nos ha ayudado a familiarizarnos con las interfaces y poder entender como potenciarlas.
