@@ -6,10 +6,11 @@ A continuación se irán destacando los puntos que se han estudiado en este info
 ## 1.[User Research](documentos/P1-2b_User_Research_Plan_Template.pdf)
 El user research consiste en una investigación sobre el sector de turismo culinario. Hemos visto los posibles objetivos, resultados y usuarios de un servicio que es muy amplio y variado. 
 
-## 2.Competitive analysis
+## 2.[Competitive analysis](ducumentos/Competitor_Analysis.pdf)
 Este análisis se basa en una comparación de calidad de las distintas páginas elegidas, en este caso:
-  - Pilsa Educa https://pilsaeduca.com/
   - Granada Cooking https://granadacooking.com/
+  - Kitchen Club https://www.kitchenclub.es/es/
+  - Cuina Canela Fina https://cuinacanelafina.com/
 ## 3.Personas
 Llegados a este punto hemos creado dos personas ficticias para usarlas como sujetos que van a participar en el turismo gatronómico.
 #### [Primera persona, Carla Perez](documentos/persona_carla.pdf)
