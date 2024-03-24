@@ -21,8 +21,14 @@ Como conclusión, la ganadora del análisis de competencia ha sido la de Cuina C
 Llegados a este punto hemos creado dos personas ficticias para usarlas como sujetos que van a participar en el turismo gatronómico.
 #### [Primera persona, Carla Perez](documentos/persona_carla.pdf)
 Carla es una choni que nunca ha querido estudiar y siempre le ha gustado más el mundo nocturno y la vida social. Hemos creado a esta persona para tener un enfoque más alocado y de una persona que no ha realizado nunca este tipo de actividades.
+
 #### [Segunda persona, Daniel Ochoa](documentos/persona_daniel.pdf)
-blaaskdbasd
+Daniel  es un profesor de tecnología, un apasionado de su profesión. Pretende transmitir todos sus conocimientos y experiencias a sus alumnos.
+Junto a su Seat Panda que le regaló su padre le gusta recorrer España en busca de nuevos retos de los que aprenderá algo. También aprovecha para visitar a menudo a sus familiares, que se encuentran dispersos por toda España.
+Es una persona algo solitaria, pero le gusta conocer gente siempre que puede. 
+
+Hemos elegido a esta persona para cubrir el enfoque de un grupo mayoritario que demanda este tipo de actividades, es decir, personas que buscan actividades de ocio. También, el hecho de que sea una persona algo mayor nos sirve para estudiar mejor la interacción con la interfaz. 
+
 ## 4.Experience Journey Map
 Después de presentar a nuestras personas vamos a crear una hoja de ruta sobre la experiencia que han tenido con nuestra página web elegida, Granada Cooking.
 #### [Journey Map de Carla Perez](documentos/journey_map_carla.pdf)
