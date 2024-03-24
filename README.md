@@ -3,10 +3,10 @@ Trabajo realizado por el grupo "fanculos", formado por Rubén Mondéjar Gonzále
 ## Intoducción
 Este trabajo de la asignatura Desarrollo de Interfaces de Usuario se basa en un estudio de las propias interfaces que tienen implementadas algunas páginas web. En este caso el estudio se realizará sobre páginas webs basadas en turismo gastronómico aprovechando su demanda en crecimiento.
 A continuación se irán destacando los puntos que se han estudiado en este informe.
-## 1.[User Research](documentos/P1-2b_User_Research_Plan_Template.pdf)
+## [1.User Research](documentos/P1-2b_User_Research_Plan_Template.pdf)
 El user research consiste en una investigación sobre el sector de turismo culinario. Hemos visto los posibles objetivos, resultados y usuarios de un servicio que es muy amplio y variado. Principalmente está destinado para usuarios que les guste la cocina, profesionales del sector o gente que lo que busque sean actividades de ocio.
 
-## 2.[Competitive analysis](documentos/Competitor_Analysis.pdf)
+## [2.Competitive analysis](documentos/Competitor_Analysis.pdf)
 Este análisis se basa en una comparación de calidad de las distintas páginas elegidas, en este caso:
   - Granada Cooking https://granadacooking.com/
   - Kitchen Club https://www.kitchenclub.es/es/
@@ -28,7 +28,7 @@ Después de presentar a nuestras personas vamos a crear una hoja de ruta sobre l
 #### [Journey Map de Carla Perez](documentos/journey_map_carla.pdf)
 #### [Journey Map de Daniel Ochoa](documentos/journey_map_daniel.pdf)
 
-## 5.[Usability Review](documentos/Usability-review.pdf)
+## [5.Usability Review](documentos/Usability-review.pdf)
 ## Conclusión de la práctica
 En este proyecto hemos realizado un estudio extenso sobre el turismo gastronómico y en particular sobre las páginas web de las empresas que ofrecen estos servicios.
 Cabe destacar que todo lo hemos realizado con unas plantillas que se nos ofrecieron para poder mostrar toda la información en múltiples aspectos.  
