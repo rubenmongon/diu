@@ -21,7 +21,7 @@ blaaskdbasd
 ## Experience Journey Map
 Después de presentar a nuestras personas vamos a crear una hoja de ruta sobre la experiencia que han tenido con nuestra página web elegida, Granada Cooking.
 #### [Journey Map de Carla Perez](documentos/journey_map_carla.pdf)
-#### Journey Map de Daniel Ochoa
+#### [Journey Map de Daniel Ochoa](documentos/journey_map_daniel.pdf)
 
 ## Usability Review
 
