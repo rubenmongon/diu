@@ -10,8 +10,8 @@ El user research consiste en una investigación sobre el sector de turismo culin
 Este análisis se basa en una comparación de calidad de las distintas páginas elegidas, en este caso:
   - Granada Cooking https://granadacooking.com/
   - Kitchen Club https://www.kitchenclub.es/es/
-  - Cuina Canela Fina https://cuinacanelafina.com/
-\nHemos elegido la página de Granada Cooking por ser una de nuestra ciudad, Kitchen Club por ser una de las primeras que aparecen al buscar en Google y Cuina Canela Fina por ser diferente en el sentido de no solo ofrecer cursos online sino también multiples experiencias de dicho ámbito.
+  - Cuina Canela Fina https://cuinacanelafina.com/  
+Hemos elegido la página de Granada Cooking por ser una de nuestra ciudad, Kitchen Club por ser una de las primeras que aparecen al buscar en Google y Cuina Canela Fina por ser diferente en el sentido de no solo ofrecer cursos online sino también multiples experiencias de dicho ámbito.
 ## 3.Personas
 Llegados a este punto hemos creado dos personas ficticias para usarlas como sujetos que van a participar en el turismo gatronómico.
 #### [Primera persona, Carla Perez](documentos/persona_carla.pdf)
