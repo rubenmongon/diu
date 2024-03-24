@@ -3,9 +3,8 @@ Trabajo realizado por el grupo "fanculos", formado por Rubén Mondéjar Gonzále
 ## Intoducción
 Este trabajo de la asignatura Desarrollo de Interfaces de Usuario se basa en un estudio de las propias interfaces que tienen implementadas algunas páginas web. En este caso el estudio se realizará sobre páginas webs basadas en turismo gastronómico aprovechando su demanda en crecimiento.
 A continuación se irán destacando los puntos que se han estudiado en este informe.
-## 1.User Research
-El user research consiste en una investigación sobre los posibles usuarios de un servicio y que problemas pueden tener.
-[Texto compartido](https://docs.google.com/document/d/1wWdetVlaMqgVUsVILR-J2apbsW07X_3qX3nmkj12pRU/edit?usp=sharing)
+## 1.[User Research](P1-2b User Research Plan Template.pdf)
+El user research consiste en una investigación sobre el sector de turismo culinario. Hemos visto los posibles objetivos, resultados y usuarios de un servicio que es muy amplio y variado. 
 
 ## 2.Competitive analysis
 Este análisis se basa en una comparación de calidad de las distintas páginas elegidas, en este caso:
