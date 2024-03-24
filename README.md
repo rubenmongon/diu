@@ -26,7 +26,8 @@ blaaskdbasd
 ## 4.Experience Journey Map
 Después de presentar a nuestras personas vamos a crear una hoja de ruta sobre la experiencia que han tenido con nuestra página web elegida, Granada Cooking.
 #### [Journey Map de Carla Perez](documentos/journey_map_carla.pdf)
-#### [Journey Map de Daniel Ochoa](documentos/journey_map_daniel.pdf)
+#### [Journey Map de Daniel Ochoa](documentos/journey_map_daniel.pdf)  
+Como se podía esperar, cada persona ha experimentado diferentes reacciones al usar la misma página web. Han tenido algún problema diferente como a la hora de seleccionar el curso, ya que cada uno tiene gustos y preferencias distintas, sin embargo también han experimentado el mismo a la hora de ver la disponibilidad de los cursos. Podríamos sacar como conclusión que hay tanto algunos aspectos díficiles de abordar en los que cada persona tiene un punto de vista distinto, como otros en los que la opinión es más generalizada.
 
 ## [5.Usability Review](documentos/Usability-review.pdf)
 ## Conclusión de la práctica
