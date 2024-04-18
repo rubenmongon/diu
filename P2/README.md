@@ -1,6 +1,6 @@
-#SABORES DEL MUNDO
+# SABORES DEL MUNDO
 
-#Propuesta de valor
+# Propuesta de valor
 Sabores del Mundo será una empresa que irrumpa con fuerza en el sector. Nos aseguraremos de que los clientes vivan una experiencia que sea digna de ser contada.
 En Sabores del Mundo ofertamos una serie de cursos adaptados a todos los niveles y de los lugares más variopintos del planeta, que no sólo se reduce a enseñar a cocinar sino
 también tendrá una ambientación digna de ese país. 
