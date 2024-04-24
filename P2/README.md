@@ -17,5 +17,5 @@ Ofrecemos:
 
 Hemos realizado también un [Scope Canvas](scope_canvas.pdf) que desarrolla esta idea.
 ## Análisis de tareas
-Hemos realizado un [analisis de todas]{analisis_de_tareas.pdf} las tareas que se podrán realizar en nuestra página web, realizando una división por tipos de usuarios: Clientes, Administrador o Empleados; y cadencia de uso de cada tarea: Nula, Baja, Media o Alta. Las tres tareas que más se realizan son "Crear una cuenta", "Iniciar sesión" y "Comentar en la comunidad".
+Hemos realizado un [analisis de todas](analisis_de_tareas.pdf) las tareas que se podrán realizar en nuestra página web, realizando una división por tipos de usuarios: Clientes, Administrador o Empleados; y cadencia de uso de cada tarea: Nula, Baja, Media o Alta. Las tres tareas que más se realizan son "Crear una cuenta", "Iniciar sesión" y "Comentar en la comunidad".
 
