@@ -1,5 +1,6 @@
 # SABORES DEL MUNDO
-
+## Ideación
+Hemos decidido realizar un [mapa de empatía](Empathy Map [DIU23].pdf) en el que tenemos en cuenta que perspectivas podrían tener los usuarios al relacionarse con el mundo de los talleres gastronómicos.
 ## Propuesta de valor
 Sabores del Mundo será una empresa que irrumpa con fuerza en el sector. Nos aseguraremos de que los clientes vivan una experiencia que sea digna de ser contada.
 En Sabores del Mundo ofertamos una serie de cursos adaptados a todos los niveles y de los lugares más variopintos del planeta, que no sólo se reduce a enseñar a cocinar sino
@@ -13,3 +14,5 @@ Ofrecemos:
 - Platos saludables de los que mostramos los valores nutricionales.
 - Acceso a una extensa comunidad de usuarios que compartan su interes por la cocina.
 - Un sistema de valoraciones.
+
+Hemos realizado también un [Scope Canvas](scope_canvas.pdf) que desarrolla esta idea.
