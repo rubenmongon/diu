@@ -23,4 +23,4 @@ A estas tres tareas más repetidas les hemos realizado un [user flow](User_Flow_
 El [sitemap](Sitemap.png) consiste en un esquema de como se puede recorrer nuestra página web al completo, además tenemos el [etiquetado](Etiquetado.pdf) que nos incluye información sobre cada uno de las páginas a las que podemos acceder.
 ## Bocetos
 Primero se debía dibujar un boceto sobre cada página a la que podemos tener acceso: [lista de bocetos](bocetos.pdf).
-Después hemos pasado esos diseños a figma: [bocetos figma](Diseños figma.pdf); y finalmente se tenía que elegir una de ellas para adaptarla a un diseño responsive, en nuestro caso se ha elegido la página del taller seleccionado, aquí tenemos como ha quedado el diseño: diseño.
+Después hemos pasado esos diseños a figma: [bocetos figma](Diseños_figma.pdf); y finalmente se tenía que elegir una de ellas para adaptarla a un diseño responsive, en nuestro caso se ha elegido la página del taller seleccionado, aquí tenemos como ha quedado el diseño: diseño.
