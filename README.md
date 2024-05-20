@@ -150,22 +150,22 @@ también tendrá una ambientación digna de ese país.
 >>> - Acerca de: Mostramos la información de la empresa.
 >>> - Wizard: Hemos creado una secuencia de pasos.
 >>> 
->>>  1º Reservar taller:
->>>   - Abrimos la pestaña de talleres.
->>>   - Navegamos hasta encontrar el que deseemos.
->>>   - Clicamos en el taller que queremos realizar.
->>>   - Una vez dentro elegimos la fecha y reservamos.
->>>     
->>>  2º Subscribirse al club:
->>>   - Seleccionamos el incono del club.
->>>   - Navegamos por el menu desplegable hasta llegar a la opción "Subscríbete".
->>>   - Una vez dentro seleccionamos el tipo de subscripción que queremos, añadiendola al carrito.
->>>     
->>>  3º Pagar:
->>>   - Abrimos el carrito: Seleccionamos el icono del carrito para ver todo lo que tenemos ya en él. Aquí se mostrará el importe total a pagar.
->>>   - Elegimos método de pago: Elegimos entre tarjeta y paypal.
->>>   - Introducimos datos de la tarjeta y pinchamos en "Usar esta tarjeta".
->>>   - Se te mostrará un resumen de la compra y confirmaremos el pago clicando en la opción "Pagar".
+ >>>  1º Reservar taller:
+ >>>   - Abrimos la pestaña de talleres.
+ >>>   - Navegamos hasta encontrar el que deseemos.
+ >>>   - Clicamos en el taller que queremos realizar.
+ >>>   - Una vez dentro elegimos la fecha y reservamos.
+ >>>     
+ >>>  2º Subscribirse al club:
+ >>>   - Seleccionamos el incono del club.
+ >>>   - Navegamos por el menu desplegable hasta llegar a la opción "Subscríbete".
+ >>>   - Una vez dentro seleccionamos el tipo de subscripción que queremos, añadiendola al carrito.
+ >>>     
+ >>>  3º Pagar:
+ >>>   - Abrimos el carrito: Seleccionamos el icono del carrito para ver todo lo que tenemos ya en él. Aquí se mostrará el importe total a pagar.
+ >>>   - Elegimos método de pago: Elegimos entre tarjeta y paypal.
+ >>>   - Introducimos datos de la tarjeta y pinchamos en "Usar esta tarjeta".
+ >>>   - Se te mostrará un resumen de la compra y confirmaremos el pago clicando en la opción "Pagar".
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
