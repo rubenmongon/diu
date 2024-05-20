@@ -171,8 +171,7 @@ también tendrá una ambientación digna de ese país.
 ----
 
 >>> https://www.figma.com/design/N3kjIR6WIFIBuNoY6UtC3U/guidelines?node-id=0%3A1&t=2Cn85bQoROY27zsZ-1
->>> En este enlace tenemos los diseños realizados. Seleccionando la opcción Prototype de figma nos saldrá el play en la página de inicio y a partir de ella podremos acceder al resto clicando en los respectivos botones.
-
+>>> En este enlace tenemos los diseños realizados. Seleccionando el botón Play que sale en la esquina superior izquierda de figma nos mandará a otra pestaña y a partir de ella podremos interactuar con la aplicación clicando en los distintos botones.
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
