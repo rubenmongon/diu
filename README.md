@@ -170,15 +170,8 @@ también tendrá una ambientación digna de ese país.
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
-
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+>>> https://www.figma.com/design/N3kjIR6WIFIBuNoY6UtC3U/guidelines?node-id=0%3A1&t=2Cn85bQoROY27zsZ-1
+>>> En este enlace tenemos los diseños realizados. Seleccionando la opcción Prototype de figma nos saldrá el play en la página de inicio y a partir de ella podremos acceder al resto clicando en los respectivos botones.
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
