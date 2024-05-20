@@ -83,48 +83,39 @@ Miembros
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+>>> Hemos decidido realizar un [mapa de empatía](P2/EmpathyMap.pdf) en el que tenemos en cuenta que perspectivas podrían tener los usuarios al relacionarse con el mundo de los talleres gastronómicos.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> Sabores del Mundo será una empresa que irrumpa con fuerza en el sector. Nos aseguraremos de que los clientes vivan una experiencia que sea digna de ser contada.
+>>> En Sabores del Mundo ofertamos una serie de cursos adaptados a todos los niveles y de los lugares más variopintos del planeta, que no sólo se reduce a enseñar a cocinar sino
+también tendrá una ambientación digna de ese país.
+>>> Ofrecemos:
+>>> - Una subscripcción mensual al club Saborín que te de acceso a un taller exclusivo del club junto a descuentos en el resto de talleres y tutorias personales con nuestros chefs.
+>>> - Amplio abanico de talleres de todas las partes del mundo, con un chef especializado en el mismo.
+>>> - Talleres totalmente ambientados con la temática local de los platos a realizar.
+>>> - Clasificación de los talleres según las habilidades de los usuarios.
+>>> - Eventos privados destinados para empresas.
+>>> - Platos saludables de los que mostramos los valores nutricionales.
+>>> - Acceso a una extensa comunidad de usuarios que compartan su interes por la cocina.
+>>> - Un sistema de valoraciones.
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
-
+>>> Hemos realizado un [analisis de todas](P2/analisis_de_tareas.pdf) las tareas que se podrán realizar en nuestra página web, realizando una división por tipos de usuarios: Clientes, Administrador o Empleados; y cadencia de uso de cada tarea: Nula, Baja, Media o Alta. Las tres tareas que más se realizan son "Crear una cuenta", "Iniciar sesión" y "Comentar en la comunidad".
+>>> A estas tres tareas más repetidas les hemos realizado un [user flow](P2/User_Flow_Kit.pdf) que muestra el flujo de las acciones que se pueden realizar en cada página.
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+>>> El [sitemap](P2/Sitemap.png) consiste en un esquema de como se puede recorrer nuestra página web al completo, además tenemos el [etiquetado](Etiquetado.pdf) que nos incluye información sobre cada uno de las páginas a las que podemos acceder.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+>>> Primero se debía dibujar un boceto sobre cada página a la que podemos tener acceso: [lista de bocetos](P2/bocetos.pdf).
+>>> Después hemos pasado esos diseños a figma: [bocetos figma](P2/Diseños_figma.pdf); y finalmente se tenía que elegir una de ellas para adaptarla a un diseño responsive, en nuestro caso se ha elegido la página del taller seleccionado, aquí tenemos como ha quedado el diseño: [diseño](P2/Diseño_responsive.fig).
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
@@ -132,23 +123,46 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> [diseño](p3/ALL-Moodboard.pdf)
+>>> El nombre de sabores del mundo pretende transmitir nuestro objetivo como empresa, que no es otro que el de traer la comida extrangera a nuestras cocinas.
+>>> - Nuestro logo es sencillo y denota elegancia.
+>>> - Nuestra gama de colores presentan tonos pastelosos y cumplen con los tests de contraste, tanto AA como AAA.
+>>> - Hemos elegido unas tipografías sencillas y elegantes como el logo, siendo estas "Daniel" e "Inria Sans".
+>>> - Hemos empleado un conjunto de iconos ampliamente estandárizados.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+>>> Nuestra [Landing Page](p3/LadingPage.pdf) trata de atrear al público mediante unas imágenes impactantes. De igual forma exponemos el eslogan de nuestra empresa junto a tres razones por la que un usuario debería confiar en nosotros.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Los patrones que hemos decidido usar para la creación del prototipo son:
+>>> - Onboarding: Creación de pantalla de bienvenida.
+>>> - Menu: Lista de apartados de navegación disponibles.
+>>> - Carousel: Sección destacada de imágenes.
+>>> - Search: Barra de busqueda.
+>>> - Article list: Una lista de artículos con tarjetas.
+>>> - Reserva: Una pantalla para reservar taller, con un calendario.
+>>> - Formulario de entrada de datos: Formulario para capturar la información de usuarios.
+>>> - Acerca de: Mostramos la información de la empresa.
+>>> - Wizard: Hemos creado una secuencia de pasos.
+>>>  1º Reservar taller:
+>>>   - Abrimos la pestaña de talleres.
+>>>   - Navegamos hasta encontrar el que deseemos.
+>>>   - Clicamos en el taller que queremos realizar.
+>>>   - Una vez dentro elegimos la fecha y reservamos.
+>>>  2º Subscribirse al club:
+>>>   - Seleccionamos el incono del club.
+>>>   - Navegamos por el menu desplegable hasta llegar a la opción "Subscríbete".
+>>>   - Una vez dentro seleccionamos el tipo de subscripción que queremos, añadiendola al carrito.
+>>>  3º Pagar:
+>>>   - Abrimos el carrito: Seleccionamos el icono del carrito para ver todo lo que tenemos ya en él. Aquí se mostrará el importe total a pagar.
+>>>   - Elegimos método de pago: Elegimos entre tarjeta y paypal.
+>>>   - Introducimos datos de la tarjeta y pinchamos en "Usar esta tarjeta".
+>>>   - Se te mostrará un resumen de la compra y confirmaremos el pago clicando en la opción "Pagar".
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
