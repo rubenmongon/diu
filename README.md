@@ -15,15 +15,10 @@ Logotipo:
 >>> ![Método UX](p3/logotipo.png)
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Rubén Mondéjar González     :octocat:     
+ * :bust_in_silhouette:  José Manuel Casanova Martínez     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
@@ -33,23 +28,43 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> El user research consiste en una investigación sobre el sector de turismo culinario. Hemos visto los posibles objetivos, resultados y usuarios de un servicio que es muy amplio y variado. Principalmente está destinado para usuarios que les guste la cocina, profesionales del sector o gente que lo que busque sean actividades de ocio.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> Este análisis se basa en una comparación de calidad de las distintas páginas elegidas, en este caso:
+  - Granada Cooking https://granadacooking.com/
+  - Kitchen Club https://www.kitchenclub.es/es/
+  - Cuina Canela Fina https://cuinacanelafina.com/
+
+
+Hemos elegido como página principal a comparar la página de Granada Cooking, por desarrollarse en nuestra ciudad. Para el estudio de competencia, la copararemos con la página de Kitchen Club por ser una de las primeras que aparecen al buscar en Google y Cuina Canela Fina por ser diferente en el sentido de no solo ofrecer cursos online, sino también multiples experiencias de dicho ámbito.
+Tras comparar las páginas web de los tres sitios, hemos llegado a la conclusión de que la página de Granada Cooking es mejorable. Tiene cosas buenas como la simplicidad y un menú de navegación, pero por el contrario debería de implementar funcionalidades bastantes útiles que ya tiene su competencia. Estas pueden ser la opción de filtrar los talleres, traducir el contenido a otros lenguajes o incluso añadir fechas o grupos más grandes.
+Como conclusión, la ganadora del análisis de competencia ha sido la de Cuina Canela, de la cual se pueden coger ideas como el hecho de colaborar con Cocineros Famosos y no tanto con empresas o la de crear talleres en distintas modalidades.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> Llegados a este punto hemos creado dos personas ficticias para usarlas como sujetos que van a participar en el turismo gatronómico.
+>>> #### [Primera persona, Carla Perez](P1/persona_carla.pdf)
+Carla es una choni que nunca ha querido estudiar y siempre le ha gustado más el mundo nocturno y la vida social. Hemos creado a esta persona para tener un enfoque más alocado y de una persona que no ha realizado nunca este tipo de actividades.
+
+>>> #### [Segunda persona, Daniel Ochoa](P1/persona_daniel.pdf)
+Daniel  es un profesor de tecnología, un apasionado de su profesión. Pretende transmitir todos sus conocimientos y experiencias a sus alumnos.
+Junto a su Seat Panda que le regaló su padre le gusta recorrer España en busca de nuevos retos de los que aprenderá algo. También aprovecha para visitar a menudo a sus familiares, que se encuentran dispersos por toda España.
+Es una persona algo solitaria, pero le gusta conocer gente siempre que puede. 
+
+Hemos elegido a esta persona para cubrir el enfoque de un grupo mayoritario que demanda este tipo de actividades, es decir, personas que buscan actividades de ocio. También, el hecho de que sea una persona algo mayor nos sirve para estudiar mejor la interacción con la interfaz. 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>> Después de presentar a nuestras personas vamos a crear una hoja de ruta sobre la experiencia que han tenido con nuestra página web elegida, Granada Cooking.
+>>> #### [Journey Map de Carla Perez](journey_map_carla.pdf)
+>>> #### [Journey Map de Daniel Ochoa](journey_map_daniel.pdf)  
+Como se podía esperar, cada persona ha experimentado diferentes reacciones al usar la misma página web. Han tenido algún problema diferente como a la hora de seleccionar el curso, ya que cada uno tiene gustos y preferencias distintas, sin embargo también han experimentado el mismo a la hora de ver la disponibilidad de los cursos. Podríamos sacar como conclusión que hay tanto algunos aspectos díficiles de abordar en los que cada persona tiene un punto de vista distinto, como otros en los que la opinión es más generalizada.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
