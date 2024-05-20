@@ -1,18 +1,18 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Talleres Gastronómicos ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU2_fanculos.  Curso: 2023/24 
+Updated: 20/5/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Sabores del mundo
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Sabores del Mundo será una empresa que irrumpa con fuerza en el sector. Nos aseguraremos de que los clientes vivan una experiencia que sea digna de ser contada. En Sabores del Mundo ofertamos una serie de cursos adaptados a todos los niveles y de los lugares más variopintos del planeta, que no sólo se reduce a enseñar a cocinar sino también tendrá una ambientación digna de ese país.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> ![Método UX](p3/logotipo.png)
 
 Miembros
  * :bust_in_silhouette:   AA     :octocat:     
