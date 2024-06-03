@@ -222,10 +222,10 @@ Resultados y valoración
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Pedro  | H / 59   | Profesor  | Intermedio       | Sorprendido | Windows       | A 
+| Rosa  | M / 27   | Peluquera  | Bajo       | Feliz       | Móvil        | A 
+| Juan  | H / 70   | Jubilado     | Baja        | Tristeza    | Windows      | B 
+| Laura  | M / 18   | Estudiante  | Avanzado       | Enfado     | Móvil        | B 
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
