@@ -244,7 +244,7 @@ Resultados y valoración
 
 
 
->>> Valoración personal\\
+>>> Valoración personal
 >>> 
 >>> Como conclusión podemos decir que la aplicación no es mala y tiene potencial, pero está atrasada en varios puntos claves como son la navegabilidad y confortabilidad en usar la aplicación, lo que hace que pierda posibilidades de ser usada.
 
