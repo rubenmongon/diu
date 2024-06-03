@@ -234,17 +234,18 @@ Resultados y valoración
 
 >>> La aplicación A obtuvo un promedio de 72.5 mientras que la aplicación B tiene un promedio de 52.5.
 >>> La primera se encuentra en el intervalo de "Aceptable Tipo C" y la segunda en "Marginal".
->>> En la evaluación que hemos hecho, destaca el gran contraste de respuestas en preguntas como "Creo que me gustará visitar con frecuencia este website". En la primera podemos afirmar que es agradable para los usuarios que la usan y que no les importaría usarla con frecuencia. Sin embargo, para la segunda podemos ver que los usuarios se enfrentan a dificultades que hacen que no deseen usar la aplicación con tanta frecuencia. 
+>>> En la evaluación que hemos hecho, destaca el gran contraste de respuestas en cuestiones como "Creo que me gustará visitar con frecuencia este website". En la primera podemos afirmar que es agradable para los usuarios que la usan y que no les importaría usarla con frecuencia. Sin embargo, para la segunda podemos ver que los usuarios se enfrentan a dificultades que hacen que no deseen usar la aplicación con tanta frecuencia. 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+>> [Usability Report de CompArte ](p4/UsabilityReport.pdf)
 
 
 
->>> Valoración personal 
+>>> Valoración personal
+>>> Como conclusión podemos decir que la aplicación no es mala y tiene potencial, pero está atrasada en varios puntos claves como son la navegabilidad y confortabilidad en usar la aplicación, lo que hace que pierda posibilidades de ser usada.
 
 
 
