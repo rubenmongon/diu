@@ -211,13 +211,12 @@ Resultados y valoración
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> Se nos a asignado trabajar con "CompArte", perteneciente al equipo de trabajo DIU_HuevosRotos https://github.com/Shadink/DIU-huevosrotos. 
+>>> Nos presentan una aplicación destinada para participar en talleres de Arte. Hacen hincapié en el uso de Cupones como mecanismo de marketing. 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
@@ -231,11 +230,11 @@ Resultados y valoración
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> ![Método UX](p4/test_sus.jpg)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> La aplicación A obtuvo un promedio de 72.5 mientras que la aplicación B tiene un promedio de 52.5.
+>>> La primera se encuentra en el intervalo de "Aceptable Tipo C" y la segunda en "Marginal".
+>>> En la evaluación que hemos hecho, destaca el gran contraste de respuestas en preguntas como "Creo que me gustará visitar con frecuencia este website". En la primera podemos afirmar que es agradable para los usuarios que la usan y que no les importaría usarla con frecuencia. Sin embargo, para la segunda podemos ver que los usuarios se enfrentan a dificultades que hacen que no deseen usar la aplicación con tanta frecuencia. 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
